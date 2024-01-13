@@ -1,6 +1,10 @@
-# SouthDev - Conquering the Digital Frontier
+<div align="center">
+  <h1>SouthDev - Conquering the Digital Frontier</h1>
+</div>
 
-![Southdev Logo](https://iili.io/JYCHxEb.md.png)
+<div align="center">
+  <img src="https://iili.io/JYCHxEb.md.png" alt="Agency Logo">
+</div>
 
 Welcome to SouthDev, where we believe in the power of effort, preparation, and teamwork, much like a group of explorers conquering a mountain expedition.
 
