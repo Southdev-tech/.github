@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://iili.io/JYCHxEb.md.png" alt="Agency Logo">
+  <img height="250px" src="https://iili.io/JYCHxEb.md.png" alt="Agency Logo">
 </div>
 
 Welcome to SouthDev, where we believe in the power of effort, preparation, and teamwork, much like a group of explorers conquering a mountain expedition.
