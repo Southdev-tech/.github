@@ -32,6 +32,6 @@ We envision a digital landscape where challenges are met with the same awe-inspi
 
 ## Contact Us
 
-Ready to embark on your digital expedition with SouthDev? Reach out to us at [contact@southdev.com](mailto:contact@southdev.com) to start your journey.
+Ready to embark on your digital expedition with SouthDev? Reach out to us at [hello@southdev.tech(mailto:hello@southdev.tech) to start your journey.
 
 Join us in conquering the digital frontier!
